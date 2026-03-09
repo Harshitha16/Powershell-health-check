@@ -1,2 +1,15 @@
-# Powershell-health-check
-PowerShell scripts for monitoring server health including disk space, CPU usage and service status.
+# PowerShell System Health Check
+
+This project contains PowerShell scripts used by System Administrators to monitor server health.
+
+## Features
+
+- Check disk space
+- Monitor CPU usage
+- Verify Windows services status
+- Generate system report
+
+## Technologies
+
+- PowerShell
+- Windows Server
